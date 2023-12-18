@@ -8,3 +8,7 @@ file structures:
 scores_*: confidence scores output by each model, with * replaced for each model (forward is clip, backward is reverse and non-auto is prime)
 
 denovo_*_new: denovo pepetide resutls by each model
+
+clipmodel.py: model to encode peptide and spectrum to calculate the pairwise cosine similarity scores
+
+
