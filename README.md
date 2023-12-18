@@ -14,3 +14,5 @@ clipmodel.py: model to encode peptide and spectrum to calculate the pairwise cos
 Model_NAT: folder containing model to run non-autoregressive sequencing. 
 
 
+venn.py: get statistics of how much peptide are correctly predicted for each model for drawing the venn diagram.
+
