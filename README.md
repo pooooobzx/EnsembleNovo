@@ -11,4 +11,6 @@ denovo_*_new: denovo pepetide resutls by each model
 
 clipmodel.py: model to encode peptide and spectrum to calculate the pairwise cosine similarity scores
 
+Model_NAT: folder containing model to run non-autoregressive sequencing. 
+
 
